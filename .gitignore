@@ -45,3 +45,15 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+HW1/main
+*.tar
+HW2/rough.txt
+HW2/sindhu.txt
+HW2/hw2old.c
+HW4/hw4.docx
+*.o
+HW4/main
+HW2/sumfan.c
+HW5/op.png
+*.bak
+HW8/main
